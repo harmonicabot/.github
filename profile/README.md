@@ -33,7 +33,7 @@ Harmonica is part of a broader effort around computational democracy and collect
 
 ## Community-Funded Open Source
 
-Harmonica is community-funded through [Open Collective](https://opencollective.com/harmonica) — no VC, no strings. Contributions, feedback, and research collaborations welcome.
+Harmonica is community-funded through [Open Collective](https://opencollective.com/harmonica) and [Giveth](https://giveth.io/project/harmonica-ai-agents-for-group-sensemaking) — no VC, no strings. Contributions, feedback, and research collaborations welcome.
 
 Licensed under Apache 2.0 (platform) and MIT (SDK).
 
