@@ -29,7 +29,7 @@ Harmonica is part of a broader effort around computational democracy and collect
 
 - **[Metagov Interop](https://metagov.org/projects/interop)** — first cohort participant in the Interoperable Deliberative Tools program, working on shared standards for deliberation platforms
 - **[Open Facilitation Library](https://github.com/harmonicabot/harmonica-web-app/tree/main/OFL)** — reusable facilitation patterns
-- **gov/acc** — accelerating governance innovation through open tooling
+- **[gov/acc](https://metagov.github.io/gov-acc/)** — Harmonica serves as data collection tool for governance research in web3 communities, in collaboration with Metagov
 
 ## Community-Funded Open Source
 
