@@ -28,7 +28,7 @@ No scheduling. No moderator bottleneck. Participants talk when it suits them, an
 Harmonica is part of a broader effort around computational democracy and collective intelligence:
 
 - **[Metagov Interop](https://metagov.org/projects/interop)** — first cohort participant in the Interoperable Deliberative Tools program, working on shared standards for deliberation platforms
-- **[Open Facilitation Library](https://github.com/Open-Facilitation-Library)** — AI facilitation: patterns, benchmarks, evals
+- **[Open Facilitation Library](https://github.com/Open-Facilitation-Library)** — AI facilitation: patterns, skills, workflows, evals
 - **[gov/acc](https://metagov.github.io/gov-acc/)** — Harmonica serves as data collection tool for governance research in web3 communities, in collaboration with Metagov
 - **[Newspeak House](https://newspeak.house/)** — the London civic tech fellowship where early research behind Harmonica took place; dean Edward Saperia helped shape the concept and design the first MVP
 
