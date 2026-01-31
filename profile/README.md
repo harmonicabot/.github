@@ -11,7 +11,7 @@ Built for communities, governance researchers, and anyone who needs to make sens
 | Repository | Description | Status |
 |---|---|---|
 | [harmonica-web-app](https://github.com/harmonicabot/harmonica-web-app) | Main platform — create sessions, facilitate conversations, analyze results | Active |
-| [avatar-sdk](https://github.com/harmonicabot/avatar-sdk) | Conversational Avatar Protocol (CAP) — knowledge avatars that represent expert perspectives in group discussions | Active |
+| [avatar-sdk](https://github.com/harmonicabot/avatar-sdk) | Knowledge avatars that represent expert perspectives in group discussions | Planned |
 | [harmonica-mcp](https://github.com/harmonicabot/harmonica-mcp) | MCP server for AI agent access to Harmonica sessions | Planned |
 
 ## How It Works
