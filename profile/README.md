@@ -11,8 +11,8 @@ Built for communities, governance researchers, and anyone who needs to make sens
 | Repository | Description | Status |
 |---|---|---|
 | [harmonica-web-app](https://github.com/harmonicabot/harmonica-web-app) | Main platform — create sessions, facilitate conversations, analyze results | Active |
-| [avatar-sdk](https://github.com/harmonicabot/avatar-sdk) | Knowledge avatars that represent expert perspectives in group discussions | Planned |
-| [harmonica-mcp](https://github.com/harmonicabot/harmonica-mcp) | MCP server for AI agent access to Harmonica sessions | Planned |
+| [avatar-sdk](https://github.com/harmonicabot/avatar-sdk) | Knowledge avatars that represent expert perspectives in group discussions | Active |
+| [harmonica-mcp](https://github.com/harmonicabot/harmonica-mcp) | MCP server for AI agent access to Harmonica sessions | Early |
 
 ## How It Works
 
@@ -28,7 +28,7 @@ No scheduling. No moderator bottleneck. Participants talk when it suits them, an
 Harmonica is part of a broader effort around computational democracy and collective intelligence:
 
 - **[Metagov Interop](https://metagov.org/projects/interop)** — first cohort participant in the Interoperable Deliberative Tools program, working on shared standards for deliberation platforms
-- **[Open Facilitation Library](https://github.com/Open-Facilitation-Library)** — AI facilitation: patterns, skills, workflows, evals
+- **[Open Facilitation Library](http://wiki.openfac.org/)** — AI facilitation: patterns, skills, workflows, evals
 - **[gov/acc](https://metagov.github.io/gov-acc/)** — Harmonica serves as data collection tool for governance research in web3 communities, in collaboration with Metagov
 - **[Newspeak House](https://newspeak.house/)** — the London civic tech fellowship where early research behind Harmonica took place; dean Edward Saperia helped shape the concept and design the first MVP
 
@@ -36,7 +36,7 @@ Harmonica is part of a broader effort around computational democracy and collect
 
 Harmonica is community-funded through [Open Collective](https://opencollective.com/harmonica) and [Giveth](https://giveth.io/project/harmonica-ai-agents-for-group-sensemaking) — no VC, no strings. Contributions, feedback, and research collaborations welcome.
 
-Licensed under Apache 2.0 (platform) and MIT (SDK).
+Licensed under AGPL-3.0 (platform) and MIT (SDK).
 
 ---
 
